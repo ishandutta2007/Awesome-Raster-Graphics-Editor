@@ -47,9 +47,9 @@ The following commercial and hosted platforms lead the market, sorted by parent 
 
 The open-source raster graphics ecosystem provides powerful, software-sovereign alternatives for photo manipulation, painting, RAW workflow, and AI image enhancement.
 
-The table below is sorted by **GitHub Star Count** (descending), with badges linking directly to each repository's stargazers page.
+The table below is sorted by **GitHub Stars_Count** (descending), with badges linking directly to each repository's stargazers page.
 
-| 📦 Repository | ⭐ Star Count | 📜 License | 🎯 Description & Highlights |
+| 📦 Repository | ⭐ Stars_Count | 📜 License | 🎯 Description & Highlights |
 | :--- | :---: | :---: | :--- |
 | **[Upscayl](https://github.com/upscayl/upscayl)** | [<img src="https://img.shields.io/github/stars/upscayl/upscayl?style=social&color=white" alt="Upscayl Stars"/>](https://github.com/upscayl/upscayl/stargazers) | `AGPL-3.0` | **Free & Open Source AI Image Upscaler**. Uses Real-ESRGAN to enlarge images 4x-8x without loss of detail. Cross-platform GUI. |
 | **[Krita](https://github.com/KDE/krita)** | [<img src="https://img.shields.io/github/stars/KDE/krita?style=social&color=white" alt="Krita Stars"/>](https://github.com/KDE/krita/stargazers) | `GPL-3.0` | **Premier Open-Source Digital Painting Suite**. Built for concept artists, illustrators, and animators with 100+ brush engines and wrap-around mode. |
